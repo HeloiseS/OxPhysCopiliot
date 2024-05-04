@@ -1,6 +1,7 @@
 # OxPhysCopiliot
+**NOTE: I KNOW I MISSPELT COPILOT IN THE REPO NAME. I'M SORRY. I CAN'T BE BOTHERED CHANGING IT NOW.**
 
-#### Description
+### Description
 This repository contains the code I will using to demonstrate some uses of Copilot through the example of
 plotting an HR diagram at the Oxford Physics Department's coding lecture series. 
 I have included all the material needed for individual learners to go through the material on their own, and for teachers
